@@ -1,6 +1,6 @@
 # Encrypted Machine Learning
 
-***This repository contains my exploration with different Encryption Techniques for Machine Learning and Federated Learning.***
+***This repository contains my exploration with different Homomorphic Encryption Techniques for Machine Learning and Federated Learning.***
 
 # Requirements
 
