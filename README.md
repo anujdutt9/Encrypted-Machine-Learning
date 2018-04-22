@@ -23,3 +23,5 @@ python3 setup.py install
 **3. Numpy [+mkl for Windows]**
 
 **4. Scikit-Learn**
+
+**5. Jupyter Notebook**
