@@ -25,3 +25,19 @@ python3 setup.py install
 **4. Scikit-Learn**
 
 **5. Jupyter Notebook**
+
+# Dataset
+
+Download the Enron1 and Enron2 dataset from the following links:
+
+**Enron1**
+
+```
+https://cloudstor.aarnet.edu.au/plus/index.php/s/RpHZ57z2E3BTiSQ/download
+```
+
+**Enron2**
+
+```
+https://cloudstor.aarnet.edu.au/plus/index.php/s/QVD4Xk5Cz3UVYLp/download
+```
