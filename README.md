@@ -28,7 +28,9 @@ python3 setup.py install
 
 # Dataset
 
-Download the Enron1 and Enron2 dataset from the following links:
+The dataset for `enron1` and `enron2` used in the jupyter notebook is provided under the `dataset` folder.
+
+This dataset is downloaded from the following links:
 
 **Enron1**
 
